@@ -145,7 +145,7 @@ curl -X POST http://localhost:3000/<taskId>/delete
 - Форма создания задачи (`/new`):  
   <img width="937" height="371" alt="Image" src="https://github.com/user-attachments/assets/abe2036c-5c47-4f24-97fa-28076b52232e" />
 - Переход по «Главная» с заглушки на раннем этапе:  
-  ![home](sandbox:/mnt/data/dd63b78d-0030-46b6-8b0a-8fd6feecc10c.png)
+<img width="920" height="426" alt="Image" src="https://github.com/user-attachments/assets/846aa031-3cea-4553-a9d3-67d2f8128b46" />
 - Ошибка из Windows CMD при создании папок (диагностика на старте):  
   ![cmd](sandbox:/mnt/data/98161f3f-5a34-4fd8-8ef5-38c8659ff43c.png)
 
